@@ -1,3 +1,10 @@
+# Design Pattern
+1. Singelton
+Only single application run, multiple running will make read same data to casue error.
+3. Composite
+Every item classes is inherit from one parent class. Like essential, luxury and misc inherit from the Item class.
+# Class Diagram
+![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/blob/main/pic/class.png)<br/>
 # Instruction
 1. Clone the repo
 2. Open IntelliJ and from top menu click “File” -> “Open”.

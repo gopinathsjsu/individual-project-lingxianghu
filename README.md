@@ -10,14 +10,14 @@
 9. Then the next step is read the credit card file.click [Enter] or input file name to read file data.
 10. The last step is get the order date. Same as the previous steps, click [Enter] or input file name.
 11. After click [Enter], the application will to run and then exit. 
-12. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/tree/main/pic/enter.png)
-13. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/tree/main/pic/enter2.png)
+12. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/blob/main/pic/enter.png)
+13. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/blob/main/pic/enter2.png)
 14. If no error detected in the input, the output file “Output.csv” will be created and show in the root directory, the file contain the total amount paid. 
-15. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/tree/main/pic/order1.png)
-16. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/tree/main/pic/output.png)
+15. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/blob/main/pic/order1.png)
+16. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/blob/main/pic/output.png)
 17. If a new credit card is founded, it will update the file “Cards - Sheet1.csv”. 
-18. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/tree/main/pic/newcard.png)
-19. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/tree/main/pic/update.png)
+18. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/blob/main/pic/newcard.png)
+19. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/blob/main/pic/update.png)
 20. If some errors occur, the error file “Errors.txt” will provide the error item which exceeds the quantity.
-21. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/tree/main/pic/errororder.png)
-22. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/tree/main/pic/erro.png)
+21. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/blob/main/pic/errororder.png)
+22. ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/blob/main/pic/erro.png)

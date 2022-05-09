@@ -1,7 +1,7 @@
 # Design Pattern
-1. Singelton
+1. Singelton<br/>
 Only single application run, multiple running will make read same data to casue error.
-3. Composite
+2. Composite<br/>
 Every item classes is inherit from one parent class. Like essential, luxury and misc inherit from the Item class.
 # Class Diagram
 ![image](https://github.com/gopinathsjsu/individual-project-lingxianghu/blob/main/pic/class.png)<br/>
